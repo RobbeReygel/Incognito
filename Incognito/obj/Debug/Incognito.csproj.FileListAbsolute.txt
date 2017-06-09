@@ -1,0 +1,12 @@
+c:\users\gebruiker\documents\visual studio 2015\Projects\Incognito\Incognito\bin\Debug\Incognito.exe.config
+C:\Users\gebruiker\Documents\Visual Studio 2015\Projects\Incognito\Incognito\bin\Debug\Incognito.exe
+C:\Users\gebruiker\Documents\Visual Studio 2015\Projects\Incognito\Incognito\bin\Debug\Incognito.pdb
+C:\Users\gebruiker\Documents\Visual Studio 2015\Projects\Incognito\Incognito\obj\Debug\Incognito.csprojResolveAssemblyReference.cache
+C:\Users\gebruiker\Documents\Visual Studio 2015\Projects\Incognito\Incognito\obj\Debug\Incognito.exe
+C:\Users\gebruiker\Documents\Visual Studio 2015\Projects\Incognito\Incognito\obj\Debug\Incognito.pdb
+C:\Users\gebruiker\Documents\Visual Studio 2015\Projects\IncognitoConsole\Incognito\bin\Debug\Incognito.exe.config
+C:\Users\gebruiker\Documents\Visual Studio 2015\Projects\IncognitoConsole\Incognito\bin\Debug\Incognito.exe
+C:\Users\gebruiker\Documents\Visual Studio 2015\Projects\IncognitoConsole\Incognito\bin\Debug\Incognito.pdb
+C:\Users\gebruiker\Documents\Visual Studio 2015\Projects\IncognitoConsole\Incognito\obj\Debug\Incognito.csprojResolveAssemblyReference.cache
+C:\Users\gebruiker\Documents\Visual Studio 2015\Projects\IncognitoConsole\Incognito\obj\Debug\Incognito.exe
+C:\Users\gebruiker\Documents\Visual Studio 2015\Projects\IncognitoConsole\Incognito\obj\Debug\Incognito.pdb
